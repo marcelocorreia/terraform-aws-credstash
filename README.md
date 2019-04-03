@@ -1,6 +1,6 @@
-### terraform-aws-credstash<--
+# terraform-aws-credstash
 
-#### TL;DR;
+## TL;DR;
 - [Inputs](#input)
 - [Outputs](#output)
 
